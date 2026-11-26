@@ -1,0 +1,11 @@
+{
+  "name": "Aura",
+  "description": "A real-time voice-to-voice AI companion named Aura, powered by Gemini Live API for low-latency conversational audio.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
