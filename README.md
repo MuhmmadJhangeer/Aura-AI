@@ -1,5 +1,9 @@
 # Aura AI — Real-Time Multimodal Voice & Screen Desktop Companion
 
+> **Proprietary & Hackathon Evaluation Notice — All Rights Reserved**  
+> © 2026 Muhammad Jhangeer. This repository and its source code are **proprietary and confidential**, made temporarily visible **strictly for official hackathon judging and evaluation purposes only**.  
+> **No open-source license is granted.** Unauthorized copying, cloning, redistributing, modifying, deploying, or using any part of this codebase for personal, public, or commercial purposes without explicit prior written permission from the author is **strictly prohibited**.
+
 **Aura AI** is a low-latency, voice-to-voice desktop AI companion powered by the **Gemini Live API** (`gemini-3.1-flash-live-preview`) with real-time **Share Screen Vision**, strict **Multi-Language Lock** (including Pakistani regional languages), direct **YouTube media playback**, and **per-email isolated memory & personal API keys**.
 
 ---
